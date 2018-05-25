@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    <HelloWorld msg="Production v0.0.1"/>
+    <HelloWorld msg="Staging v0.0.2"/>
   </div>
 </template>
 
